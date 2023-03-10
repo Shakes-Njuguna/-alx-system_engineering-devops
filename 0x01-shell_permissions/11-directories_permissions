@@ -1,0 +1,2 @@
+#!/bi/bash
+chmo -R +X .
